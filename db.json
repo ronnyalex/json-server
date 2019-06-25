@@ -1,0 +1,450 @@
+{
+  "savedaudio": [],
+  "text": [
+    "Jag vet att du sover Känner värmen från din hud Bara lukten gör mig svag Men jag vågar inte väcka dig nu Jag skulle ge dig Allting du pekar på Men bara när du inte hör Vågar jag säga så Jag kan inte ens gå Utan din luft i mina lungor Jag kan inte ens stå När du inte ser på Och genomskinlig grå Blir jag Utan dina andetag Min klocka har stannat Under dina ögonlock Fladdrar drömmarna förbi Inuti är du fjäderlätt och vit Och utan ett ljud Mitt hjärta i din hand Har jag tappat bort mitt språk Det fastnar i ditt hår Jag kan inte ens gå Utan din luft i mina lungor Jag kan…"
+  ],
+  "comments": [
+    {
+      "selectedText": "Bara lukt",
+      "selectionStart": 48,
+      "selectionEnd": 57,
+      "idSelected": 0,
+      "textareaid": 0,
+      "toggleWord": "Dölj",
+      "backgroundColor": "rgb(237,221,101)",
+      "comment": "hej"
+    },
+    {
+      "selectedText": "Vågar",
+      "selectionStart": 168,
+      "selectionEnd": 173,
+      "idSelected": 1,
+      "textareaid": 1,
+      "toggleWord": "Dölj",
+      "backgroundColor": "rgb(252,154,78)",
+      "comment": "bra"
+    }
+  ],
+  "expressions": [
+    {
+      "id": 0,
+      "category": "swedish",
+      "text": "Hallå där! ",
+      "clicks": 0,
+      "ranking": 0
+    },
+    {
+      "id": 1,
+      "category": "swedish",
+      "text": "Fin frasering. ",
+      "clicks": 0,
+      "ranking": 1
+    },
+    {
+      "id": 2,
+      "category": "swedish",
+      "text": "Väldigt bra formulerat. ",
+      "clicks": 0,
+      "ranking": 1
+    },
+    {
+      "id": 3,
+      "category": "swedish",
+      "text": "Den grammatiska delen här är inte bra. ",
+      "clicks": 0,
+      "ranking": 1
+    },
+    {
+      "id": 4,
+      "category": "swedish",
+      "text": "Snygg ordbyggnad. ",
+      "clicks": 0,
+      "ranking": 1
+    },
+    {
+      "id": 5,
+      "category": "english",
+      "text": "Very nice grammatically. ",
+      "clicks": 0,
+      "ranking": 1
+    },
+    {
+      "id": 6,
+      "category": "swedish",
+      "text": "Wow, vilken text! ",
+      "clicks": 0,
+      "ranking": 1
+    },
+    {
+      "id": 7,
+      "category": "english",
+      "text": "Loop Small Handcrafted virtual",
+      "clicks": 10,
+      "dateCreated": "2019-06-18T23:24:37.260Z"
+    },
+    {
+      "id": 8,
+      "category": "english",
+      "text": "lime Green Gorgeous Open-architected",
+      "clicks": 1,
+      "dateCreated": "2019-06-19T12:18:42.333Z"
+    },
+    {
+      "id": 9,
+      "category": "english",
+      "text": "multi-byte Car markets Benin",
+      "clicks": 0,
+      "dateCreated": "2019-06-19T21:12:50.737Z"
+    },
+    {
+      "id": 0,
+      "category": "swedish",
+      "text": "Internal grön gärdet DR Kongo",
+      "clicks": 1,
+      "dateCreated": "2019-06-19T13:05:31.974Z"
+    },
+    {
+      "id": 1,
+      "category": "swedish",
+      "text": "deposit collaborative JBOD Personal Loan Account",
+      "clicks": 4,
+      "dateCreated": "2019-06-18T14:02:43.383Z"
+    },
+    {
+      "id": 2,
+      "category": "swedish",
+      "text": "Investment Account Grenada Focused Swiss Franc",
+      "clicks": 5,
+      "dateCreated": "2019-06-19T20:28:18.579Z"
+    },
+    {
+      "id": 3,
+      "category": "swedish",
+      "text": "Operative Hat user-centric Jönköping",
+      "clicks": 8,
+      "dateCreated": "2019-06-19T06:50:45.205Z"
+    },
+    {
+      "id": 4,
+      "category": "swedish",
+      "text": "Praktisk Bedfordshire frame GB",
+      "clicks": 10,
+      "dateCreated": "2019-06-18T23:04:51.021Z"
+    },
+    {
+      "id": 5,
+      "category": "swedish",
+      "text": "Savings Account Bulgarian Lev pricing structure Pants",
+      "clicks": 0,
+      "dateCreated": "2019-06-18T17:41:22.027Z"
+    },
+    {
+      "id": 6,
+      "category": "swedish",
+      "text": "Stol Officer Gävleborg Executive",
+      "clicks": 2,
+      "dateCreated": "2019-06-20T10:09:10.882Z"
+    },
+    {
+      "id": 7,
+      "category": "swedish",
+      "text": "Skåne Musik web-enabled withdrawal",
+      "clicks": 0,
+      "dateCreated": "2019-06-19T23:20:21.814Z"
+    },
+    {
+      "id": 8,
+      "category": "swedish",
+      "text": "program channels bus Personal Loan Account",
+      "clicks": 6,
+      "dateCreated": "2019-06-18T20:41:53.767Z"
+    },
+    {
+      "id": 9,
+      "category": "swedish",
+      "text": "Product channels metrics programming",
+      "clicks": 10,
+      "dateCreated": "2019-06-20T03:33:45.237Z"
+    },
+    {
+      "id": 10,
+      "category": "swedish",
+      "text": "Skor Borders Manat Praktisk",
+      "clicks": 8,
+      "dateCreated": "2019-06-18T23:41:08.422Z"
+    },
+    {
+      "id": 11,
+      "category": "swedish",
+      "text": "input Borders Checking Account Internal",
+      "clicks": 4,
+      "dateCreated": "2019-06-19T18:32:20.027Z"
+    },
+    {
+      "id": 12,
+      "category": "swedish",
+      "text": "Västmanland AGP navigate Gotland",
+      "clicks": 0,
+      "dateCreated": "2019-06-20T02:06:55.185Z"
+    },
+    {
+      "id": 13,
+      "category": "swedish",
+      "text": "Stockholm Home Loan Account bypass software",
+      "clicks": 2,
+      "dateCreated": "2019-06-18T17:24:08.384Z"
+    },
+    {
+      "id": 14,
+      "category": "swedish",
+      "text": "Group Söt Metall Bil overriding bleeding-edge",
+      "clicks": 5,
+      "dateCreated": "2019-06-18T21:11:22.865Z"
+    },
+    {
+      "id": 15,
+      "category": "swedish",
+      "text": "withdrawal TCP Shoes Intelligent Grnit Bil",
+      "clicks": 0,
+      "dateCreated": "2019-06-20T08:50:52.376Z"
+    },
+    {
+      "id": 16,
+      "category": "swedish",
+      "text": "Söt Marketing Metall Fatastisk Grnit Pants",
+      "clicks": 8,
+      "dateCreated": "2019-06-18T12:31:42.837Z"
+    },
+    {
+      "id": 17,
+      "category": "swedish",
+      "text": "bluetooth Extended facilitate Praktisk Grnit Bil",
+      "clicks": 7,
+      "dateCreated": "2019-06-19T14:08:05.325Z"
+    },
+    {
+      "id": 18,
+      "category": "swedish",
+      "text": "Investor Coordinator Planner Ergonomisk Betong Stol",
+      "clicks": 0,
+      "dateCreated": "2019-06-19T08:48:32.038Z"
+    },
+    {
+      "id": 19,
+      "category": "swedish",
+      "text": "regional programming USB synthesize",
+      "clicks": 6,
+      "dateCreated": "2019-06-19T03:43:20.623Z"
+    },
+    {
+      "id": 20,
+      "category": "swedish",
+      "text": "payment brun Direct invoice",
+      "clicks": 10,
+      "dateCreated": "2019-06-20T05:23:05.550Z"
+    },
+    {
+      "id": 21,
+      "category": "swedish",
+      "text": "Response gränden gärdet Jämtland",
+      "clicks": 9,
+      "dateCreated": "2019-06-19T09:52:44.769Z"
+    },
+    {
+      "id": 22,
+      "category": "swedish",
+      "text": "exploit mobile Avon Associate",
+      "clicks": 4,
+      "dateCreated": "2019-06-19T19:00:39.925Z"
+    },
+    {
+      "id": 23,
+      "category": "swedish",
+      "text": "payment hack allén primary",
+      "clicks": 3,
+      "dateCreated": "2019-06-19T18:30:12.365Z"
+    },
+    {
+      "id": 24,
+      "category": "swedish",
+      "text": "Malaysia gärdet functionalities Product",
+      "clicks": 10,
+      "dateCreated": "2019-06-18T16:17:28.622Z"
+    },
+    {
+      "id": 25,
+      "category": "swedish",
+      "text": "Creative Executive demand-driven action-items",
+      "clicks": 7,
+      "dateCreated": "2019-06-18T14:18:23.419Z"
+    },
+    {
+      "id": 26,
+      "category": "swedish",
+      "text": "navigate Checking Account Fatastisk Accountability",
+      "clicks": 8,
+      "dateCreated": "2019-06-20T04:45:47.424Z"
+    },
+    {
+      "id": 27,
+      "category": "swedish",
+      "text": "Table Auto Loan Account impactful Grnit",
+      "clicks": 2,
+      "dateCreated": "2019-06-19T17:11:58.220Z"
+    },
+    {
+      "id": 28,
+      "category": "swedish",
+      "text": "Investor Global AI grön",
+      "clicks": 3,
+      "dateCreated": "2019-06-18T19:30:21.067Z"
+    },
+    {
+      "id": 29,
+      "category": "swedish",
+      "text": "sensor groupware JBOD attitude",
+      "clicks": 3,
+      "dateCreated": "2019-06-19T03:26:57.893Z"
+    },
+    {
+      "id": 30,
+      "category": "swedish",
+      "text": "Designer model Ergonomisk Auto Loan Account",
+      "clicks": 4,
+      "dateCreated": "2019-06-20T08:02:09.732Z"
+    },
+    {
+      "id": 31,
+      "category": "swedish",
+      "text": "uniform vägen Communications real-time",
+      "clicks": 2,
+      "dateCreated": "2019-06-18T15:11:38.110Z"
+    },
+    {
+      "id": 32,
+      "category": "swedish",
+      "text": "Datorer digital gatan users",
+      "clicks": 6,
+      "dateCreated": "2019-06-20T11:35:07.748Z"
+    },
+    {
+      "id": 33,
+      "category": "swedish",
+      "text": "Praktisk Stål Bil Won gärdet Senior",
+      "clicks": 5,
+      "dateCreated": "2019-06-19T09:49:32.991Z"
+    },
+    {
+      "id": 34,
+      "category": "swedish",
+      "text": "rosa calculate Infrastructure Shoes",
+      "clicks": 8,
+      "dateCreated": "2019-06-18T19:35:12.270Z"
+    },
+    {
+      "id": 35,
+      "category": "swedish",
+      "text": "Pants Liten navigate dynamic",
+      "clicks": 3,
+      "dateCreated": "2019-06-18T18:20:10.960Z"
+    },
+    {
+      "id": 36,
+      "category": "swedish",
+      "text": "XSS Kalmar gatan solution",
+      "clicks": 4,
+      "dateCreated": "2019-06-18T21:07:32.820Z"
+    },
+    {
+      "id": 37,
+      "category": "swedish",
+      "text": "Buckinghamshire Robust Hat hub",
+      "clicks": 2,
+      "dateCreated": "2019-06-18T17:54:21.042Z"
+    },
+    {
+      "id": 38,
+      "category": "swedish",
+      "text": "algorithm Klädsel orchestrate Identity",
+      "clicks": 8,
+      "dateCreated": "2019-06-20T11:02:18.974Z"
+    },
+    {
+      "id": 39,
+      "category": "swedish",
+      "text": "Söt Trä Pants Albanien Face to face Bedfordshire",
+      "clicks": 9,
+      "dateCreated": "2019-06-20T11:23:11.823Z"
+    },
+    {
+      "id": 40,
+      "category": "swedish",
+      "text": "Praktisk deposit Liten Trä Stol Dalarna",
+      "clicks": 6,
+      "dateCreated": "2019-06-20T09:25:31.183Z"
+    },
+    {
+      "id": 41,
+      "category": "swedish",
+      "text": "gul mission-critical Uzbekistan Sum driver",
+      "clicks": 8,
+      "dateCreated": "2019-06-18T13:08:07.213Z"
+    },
+    {
+      "id": 42,
+      "category": "swedish",
+      "text": "Money Market Account copying multimedia Investor",
+      "clicks": 9,
+      "dateCreated": "2019-06-19T18:06:30.030Z"
+    },
+    {
+      "id": 43,
+      "category": "swedish",
+      "text": "card gärdet matrix Colombia",
+      "clicks": 2,
+      "dateCreated": "2019-06-19T07:15:56.956Z"
+    },
+    {
+      "id": 44,
+      "category": "swedish",
+      "text": "korall copy rosa virtual",
+      "clicks": 4,
+      "dateCreated": "2019-06-20T02:46:17.906Z"
+    },
+    {
+      "id": 45,
+      "category": "swedish",
+      "text": "Grnit Bedfordshire Architect Berkshire",
+      "clicks": 4,
+      "dateCreated": "2019-06-18T13:13:12.802Z"
+    },
+    {
+      "id": 46,
+      "category": "swedish",
+      "text": "leverage Internal sensor Bedfordshire",
+      "clicks": 10,
+      "dateCreated": "2019-06-19T11:06:24.931Z"
+    },
+    {
+      "id": 47,
+      "category": "swedish",
+      "text": "Jämtland payment exploit Livsmedel",
+      "clicks": 7,
+      "dateCreated": "2019-06-19T03:14:52.050Z"
+    },
+    {
+      "id": 48,
+      "category": "swedish",
+      "text": "cutting-edge matrix next-generation Credit Card Account",
+      "clicks": 0,
+      "dateCreated": "2019-06-18T19:32:32.034Z"
+    },
+    {
+      "id": 49,
+      "category": "swedish",
+      "text": "alarm vit hacking solid state",
+      "clicks": 9,
+      "dateCreated": "2019-06-18T22:01:12.847Z"
+    }
+  ]
+}
