@@ -32,6 +32,23 @@
       "toggleWord": "Dölj",
       "backgroundColor": "rgb(252,154,78)",
       "comment": "bra"
+    },
+    {
+      "audioObject": {
+	"savedPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/Yodel_Sound_Effect.mp3",
+	"id": null,
+	"blob": null,
+	"url": "",
+	"duration": ""
+      },
+      "selectedText": "Min klocka",
+      "selectionStart": 322,
+      "selectionEnd": 332,
+      "idSelected": 2,
+      "textareaid": 2,
+      "toggleWord": "Dölj",
+      "backgroundColor": "rgb(59,32,93)",
+      "comment": "Lite joddel hämtad från https:// länk\nÄr audio länken sparad och vi kommer åt den med rest api så fungerar det bra"
     }
   ],
   "expressions": [
