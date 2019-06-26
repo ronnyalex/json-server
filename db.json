@@ -6,6 +6,7 @@
   "comments": [
     {
       "audioObject": null,
+	    
       "selectedText": "Bara lukt",
       "selectionStart": 48,
       "selectionEnd": 57,
@@ -26,6 +27,23 @@
       "selectedText": "Vågar",
       "selectionStart": 168,
       "selectionEnd": 173,
+      "idSelected": 1,
+      "textareaid": 1,
+      "toggleWord": "Dölj",
+      "backgroundColor": "rgb(252,154,78)",
+      "comment": "bra"
+    },
+    {
+      "audioObject": {
+	"savedPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/Yodel_Sound_Effect.mp3",
+	"id": null,
+	"blob": null,
+	"url": "",
+	"duration": ""
+      },
+      "selectedText": "Fel ord här ",
+      "selectionStart": 193,
+      "selectionEnd": 208,
       "idSelected": 1,
       "textareaid": 1,
       "toggleWord": "Dölj",
