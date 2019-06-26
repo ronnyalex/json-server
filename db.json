@@ -44,11 +44,11 @@
       "selectedText": "Fel ord här ",
       "selectionStart": 193,
       "selectionEnd": 208,
-      "idSelected": 1,
-      "textareaid": 1,
+      "idSelected": 2,
+      "textareaid": 2,
       "toggleWord": "Dölj",
-      "backgroundColor": "rgb(252,154,78)",
-      "comment": "bra"
+      "backgroundColor": "rgb(252,103,203)",
+      "comment": "Fel ord här"
     }
   ],
   "expressions": [
