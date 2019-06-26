@@ -5,6 +5,7 @@
   ],
   "comments": [
     {
+      "audioObject": null,
       "selectedText": "Bara lukt",
       "selectionStart": 48,
       "selectionEnd": 57,
@@ -16,12 +17,12 @@
     },
     {
       "audioObject": {
-				"savedPath": "path/to/test.mp3",
-				"id": null,
-				"blob": null,
-				"url": "",
-				"duration": ""
-			},
+	"savedPath": "path/to/test.mp3",
+	"id": null,
+	"blob": null,
+	"url": "",
+	"duration": ""
+      },
       "selectedText": "Vågar",
       "selectionStart": 168,
       "selectionEnd": 173,
