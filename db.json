@@ -17,7 +17,7 @@
     },
     {
       "audioObject": {
-	"savedPath": "path/to/test.mp3",
+	"savedPath": "storage/app/public/upload/test.mp3",
 	"id": null,
 	"blob": null,
 	"url": "",
