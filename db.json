@@ -16,12 +16,12 @@
     },
     {
       "audioObject": {
-        'savedPath': 'path/to/test.mp3'
-        'id': null,
-        'blob': null,
-        'url': '',
-        'duration': ''
-      },
+				"savedPath": "path/to/test.mp3",
+				"id": null,
+				"blob": null,
+				"url": "",
+				"duration": ""
+			},
       "selectedText": "Vågar",
       "selectionStart": 168,
       "selectionEnd": 173,
