@@ -25,7 +25,7 @@
       "textareaid": 1,
       "toggleWord": "Dölj",
       "backgroundColor": "rgb(252,154,78)",
-      "comment": "bra"
+      "comment": "En annan kommentar. Vi kan sätta savedPath till storage/app/public/upload/test.mp3 när jag kör lokalt"
     },
     {
       "audioObject": {
