@@ -17,13 +17,7 @@
       "comment": "hej"
     },
     {
-      "audioObject": {
-	"savedPath": "storage/app/public/upload/test.mp3",
-	"id": null,
-	"blob": null,
-	"url": "",
-	"duration": ""
-      },
+      "audioObject": null,
       "selectedText": "Vågar",
       "selectionStart": 168,
       "selectionEnd": 173,
