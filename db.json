@@ -32,23 +32,6 @@
       "toggleWord": "Dölj",
       "backgroundColor": "rgb(252,154,78)",
       "comment": "bra"
-    },
-    {
-      "audioObject": {
-	"savedPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/Yodel_Sound_Effect.mp3",
-	"id": null,
-	"blob": null,
-	"url": "",
-	"duration": ""
-      },
-      "selectedText": "Fel ord här ",
-      "selectionStart": 193,
-      "selectionEnd": 208,
-      "idSelected": 2,
-      "textareaid": 2,
-      "toggleWord": "Dölj",
-      "backgroundColor": "rgb(252,103,203)",
-      "comment": "Denna kommentar var bara för att se om vi kunde sätta path till https:// Joddel"
     }
   ],
   "expressions": [
