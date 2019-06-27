@@ -18,7 +18,7 @@
     },
     {
       "audioObject": {
-	"savedPath": "public/upload/test.mp3",
+	"savedPath": "upload/test.mp3",
 	"id": null,
 	"blob": null,
 	"url": "",
@@ -31,7 +31,7 @@
       "textareaid": 1,
       "toggleWord": "Dölj",
       "backgroundColor": "rgb(252,154,78)",
-      "comment": "En annan kommentar. Vi kan sätta savedPath till storage/app/public/upload/test.mp3 när jag kör lokalt"
+      "comment": "En annan kommentar. Vi kan sätta savedPath till public/upload/test.mp3 om vi vill köra lokalt. Om live på ronnyalex.se så ska den vara upload/test.mp3"
     },
     {
       "audioObject": {
