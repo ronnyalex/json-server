@@ -31,7 +31,7 @@
       "textareaid": 1,
       "toggleWord": "Dölj",
       "backgroundColor": "rgb(252,154,78)",
-      "comment": "En annan kommentar. Vi kan sätta savedPath till public/upload/test.mp3 om vi vill köra lokalt. Om live på ronnyalex.se så ska den vara upload/test.mp3"
+      "comment": "En annan kommentar. Vi kan sätta savedPath till public/audio/test.mp3 om vi vill köra från laravel"
     },
     {
       "audioObject": {
