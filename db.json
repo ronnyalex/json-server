@@ -18,7 +18,7 @@
     },
     {
       "audioObject": {
-	"savedPath": "audio/test.mp3",
+	"savedPath": "http://localhost:5000/uploads/comment1.mp3",
 	"id": null,
 	"blob": null,
 	"url": "",
@@ -35,7 +35,7 @@
     },
     {
       "audioObject": {
-	"savedPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/Yodel_Sound_Effect.mp3",
+	"savedPath": "http://localhost:5000/uploads/comment2.mp3",
 	"id": null,
 	"blob": null,
 	"url": "",
