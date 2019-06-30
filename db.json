@@ -18,7 +18,7 @@
     },
     {
       "audioObject": {
-	"savedPath": "http://localhost:5000/uploads/comment1.mp3",
+	"savedPath": "http://localhost:5000/uploads/testId_123_comment_1",
 	"id": null,
 	"blob": null,
 	"url": "",
@@ -35,7 +35,7 @@
     },
     {
       "audioObject": {
-	"savedPath": "http://localhost:5000/uploads/comment2.mp3",
+	"savedPath": "http://localhost:5000/uploads/testId_123_comment_2.mp3",
 	"id": null,
 	"blob": null,
 	"url": "",
